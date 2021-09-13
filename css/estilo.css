@@ -1,0 +1,17 @@
+body { background-color: cyan;}
+
+.título { font-size:250%;
+text-align: center;
+background-color:#eb9cff;text-decoration: underline;}
+
+.ingredientes {color:#ffffff;
+font-family:arial narrow; text-decoration: underline;}
+
+.listado {text-decoration: underline;}
+
+.elementos {font-size: 120%}
+
+.pasoporpaso {font-family:arial narrow;
+color:#9400D3; text-decoration: underline;}
+
+.foto {height: 200px;width: 250px}
