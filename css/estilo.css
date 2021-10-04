@@ -1,4 +1,4 @@
-body { background-color: cyan;}
+body { background: cyan url(../imágenes/fondocyan.jpg);}
 
 .título { font-size:250%;
 text-align: center;
@@ -14,4 +14,46 @@ font-family:arial narrow; text-decoration: underline;}
 .pasoporpaso {font-family:arial narrow;
 color:#9400D3; text-decoration: underline;}
 
-.foto {height: 200px;width: 250px}
+.foto {height: 200px;width: 250px;}
+
+header .título {background-color: #C0719E;}
+
+nav {margin-left: 25%}
+
+section {background-color: #5CEF7F;}
+
+aside {background-color: #FFCBDB;}
+
+footer {background-color: #8673A1;}
+
+section { float: left;
+          width: 49%;
+          height: 500px;
+          overflow: scroll;
+          margin: 0.5%;
+          border: 2px solid black;
+          box-sizing: border-box; }
+
+aside {float: left;
+          width: 49%;
+          height: 500px;
+          overflow: scroll;
+          margin: 0.5%;
+          border: 2px solid black;
+          box-sizing: border-box; }
+
+footer {clear: both;}
+
+.whatsapp {height: 50px; width: 50px}
+
+.íconos {position: fixed;
+          top: 75%;
+          right: 1%; }
+
+.videos {width: 400px; height: 200px;}
+
+.mapita {width: 400px; height: 400px;}
+
+.cancato {width: 400px; height: 200px}
+
+.ig {margin-left: 25%}
