@@ -1,0 +1,16 @@
+body { background: cyan url(../imágenes/fondocyan.jpg);}
+
+form {background-color: #99FF33;}
+
+.título { font-size:250%;
+text-align: center; text-decoration: underline;}
+
+header .título {background-color: #C0719E;}
+
+button:hover {background-color: #7B241C;}
+
+.ig {margin-left: 25%}
+
+footer {background-color: #8673A1;}
+
+footer {clear: both;}

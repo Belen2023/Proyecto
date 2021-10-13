@@ -1,8 +1,7 @@
 body { background: cyan url(../imágenes/fondocyan.jpg);}
 
 .título { font-size:250%;
-text-align: center;
-background-color:#eb9cff;text-decoration: underline;}
+text-align: center; text-decoration: underline;}
 
 .ingredientes {color:#ffffff;
 font-family:arial narrow; text-decoration: underline;}
